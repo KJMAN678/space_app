@@ -24,9 +24,9 @@
 ##### right: 1000th Generation! Pair Herbivorous  Ferocious alien from Mars   
 
 <div align="center">
-<img src="./images/first_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:300px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/500th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:300px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/1000th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:300px;"/>
+<img src="./images/first_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/500th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./images/1000th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>
 </div>
 
 ### File Organization / ファイル構成
