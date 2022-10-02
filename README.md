@@ -31,7 +31,7 @@
 
 ### file organization
 
-- StableDiffusionSample.ipynb 
+- StableDiffusionSample.ipynb
   - An executable file that performs image generation. Sory You Need to Login Hugging Face Infomation!
   - 画像生成を行う実行ファイル。Hugging Face へのログイン情報が必要。
 - simulation.py 
@@ -40,3 +40,6 @@
 - images
   - Folder containing the Output image described above.
   - 上述のOutput画像が入ったフォルダ
+
+### Reference material
+- [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing))

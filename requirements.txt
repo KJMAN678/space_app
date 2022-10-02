@@ -1,0 +1,7 @@
+# Python 3.7
+diffusers==0.3.0
+transformers==4.22.2
+scipy 
+ftfy 
+gradio==3.4.0
+ipywidgets>=7,<8
