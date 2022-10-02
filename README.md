@@ -32,8 +32,8 @@
 ### file organization
 
 - StableDiffusionSample.ipynb 
-  - An executable file that performs image generation.
-  - 画像生成を行う実行ファイル。
+  - An executable file that performs image generation. Sory You Need to Login Hugging Face Infomation!
+  - 画像生成を行う実行ファイル。Hugging Face へのログイン情報が必要。
 - simulation.py 
   - A file with a genetic algorithm simulation running in StableDiffusionSample.ipynb
   - StableDiffusionSample.ipynb で実行する、遺伝的アルゴリズムによるシミュレーションを行っているファイル。
