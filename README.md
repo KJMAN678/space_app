@@ -1,6 +1,7 @@
-## Space App 豊橋
+## Space App Toyohashi in Japan / 豊橋
 
 ### Team X Alien (チーム星人)
+
 - Mr. Takeo (竹尾さん)
 - Mr. Matsubara (松原さん)
 - Me, Shimizu (清水(記))
@@ -14,7 +15,7 @@
 - 簡単な火星の環境をシミュレートした遺伝的アルゴリズムにより導き出した究極生命体の特徴（=画像生成に与えるキーワード)を画像生成プログラムに与えて未来に生き残る究極生命体の画像を生成する。
 - The image generation program is given the characteristics of the ultimate life form (= keywords for image generation) derived by a genetic algorithm that simulates a simple Martian environment to generate images of the ultimate life form that will survive in the future.
 
-- [Slide (Sorry, Japanese)](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
+- [Slide (Sorry, Only Japanese)](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
 
 ### Output Images
 
