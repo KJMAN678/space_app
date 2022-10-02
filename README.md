@@ -1,6 +1,6 @@
 ## Space App Toyohashi in Japan / 豊橋
 
-### Team X Alien (チーム星人)
+### [Team X Alien (チーム星人)](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/team-x-alien/project)
 
 - Mr. Takeo (竹尾さん)
 - Mr. Matsubara (松原さん)
