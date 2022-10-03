@@ -1,4 +1,6 @@
 .venv
 *.png
+.ipynb_checkpoints/
+__pycache__/
 
 !/sample_output_images/**
