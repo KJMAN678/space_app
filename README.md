@@ -26,22 +26,49 @@
 ##### right: 1000th Generation! Pair Herbivorous  Ferocious alien from Mars   
 
 <div align="center">
-<img src="./images/first_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/500th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./images/1000th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>
+<img src="./sample_output_images/first_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./sample_output_images/500th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./sample_output_images/1000th_generation.png" alt="エビフライトライアングル" title="サンプル"  style="width:240px;"/>
 </div>
+
+### How to Execute / 実行方法
+
+- On Colab
+  - Open [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)
+  - Upload simulation.py to the current directory of Colab
+
+- On Local
+  - Install requirements.txt library in a virtual environment, etc.
+  - Launch notebook StableDiffusionByCpu.ipynb.
+
+- Common
+  - Create a Hugging Face account.
+  - Create an access token in Hugging Face Setting.
+  - Allow the use of the model you want to use (e.g. CompVis/stable-diffusion-v1-4), referring to the explanation on the official site.
+  - Run a Colab or Local notebook, enter the Hugging Face token into the notebook, login and run the notebook.
+
+- グーグルコラボ
+  - [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)を開く
+  - Colab のカレントディレクトリに simulation.py をアップロードする
+
+- ローカル環境
+  - 仮想環境などに requirements.txt のライブラリをインストールする
+  - StableDiffusionByCpu を立ち上げるする。
+
+- 共通
+  - [Hugging Face](https://huggingface.co/)のアカウントを作成する
+  - [Hugging Face の Setting](https://huggingface.co/settings/tokens)でアクセストークンを作成する
+  - [公式サイトの解説](https://huggingface.co/docs/hub/security-tokens)を参考に、使用するモデル(例: CompVis/stable-diffusion-v1-4)の使用を許可する
+  - Colab または Local のノートブックを実行し、Hugging Face のトークンをノートブックに入力しログインしてノートブックを実行する。
 
 ### File Organization / ファイル構成
 
-- StableDiffusionSample.ipynb
+- StableDiffusionByCpu.ipynb
   - An executable file that performs image generation. Sory You Need to Login Hugging Face Infomation!
   - 画像生成を行う実行ファイル。Hugging Face へのログイン情報が必要。
 - simulation.py 
   - A file with a genetic algorithm simulation running in StableDiffusionSample.ipynb
   - StableDiffusionSample.ipynb で実行する、遺伝的アルゴリズムによるシミュレーションを行っているファイル。
-- images
+- sample_output_images
   - Folder containing the Output image described above.
   - 上述のOutput画像が入ったフォルダ
-
-### Reference material / 参考資料
-- [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing))

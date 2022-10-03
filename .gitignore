@@ -1,0 +1,4 @@
+.venv
+*.png
+
+!/sample_output_images/**
