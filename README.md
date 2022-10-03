@@ -64,11 +64,11 @@
 ### File Organization / ファイル構成
 
 - StableDiffusionByCpu.ipynb
-  - An executable file that performs image generation. Sory You Need to Login Hugging Face Infomation!
-  - 画像生成を行う実行ファイル。Hugging Face へのログイン情報が必要。
+  - An executable file that performs image generation locally.
+  - ローカルで画像生成を行う実行ファイル。
 - simulation.py 
-  - A file with a genetic algorithm simulation running in StableDiffusionSample.ipynb
-  - StableDiffusionSample.ipynb で実行する、遺伝的アルゴリズムによるシミュレーションを行っているファイル。
+  - File with genetic algorithm simulations, required for both Colab and local.
+  - 遺伝的アルゴリズムによるシミュレーションを行っているファイル。Colab、ローカルいずれの場合も必要。
 - sample_output_images
   - Folder containing the Output image described above.
   - 上述のOutput画像が入ったフォルダ
