@@ -33,6 +33,8 @@
 
 ### How to Execute / 実行方法
 
+- Verify execution with Python 3.7.13
+
 - On Colab
   - Open [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)
   - Upload simulation.py to the current directory of Colab
@@ -46,6 +48,10 @@
   - Create an access token in Hugging Face Setting.
   - Allow the use of the model you want to use (e.g. CompVis/stable-diffusion-v1-4), referring to the explanation on the official site.
   - Run a Colab or Local notebook, enter the Hugging Face token into the notebook, login and run the notebook.
+
+---------------------------------------------
+
+- Python 3.7.13 で実行を確認
 
 - グーグルコラボ
   - [StableDiffusionSample.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)を開く
