@@ -63,7 +63,7 @@
 
 ### File Organization / ファイル構成
 
-- StableDiffusionByCpu.ipynb
+- stable_diffusion_cpu.ipynb
   - An executable file that performs image generation locally.
   - ローカルで画像生成を行う実行ファイル。
 - simulation.py 
