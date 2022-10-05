@@ -44,16 +44,16 @@
 
 ### Command Example (Mac)
 ```
-### Create a virtual environment
+# Create a virtual environment
 python -m venv .venv
 
-## Activate your virtual environment.
+# Activate your virtual environment.
 source .venv/bin/activate
 
-## Upgrade pip
+# Upgrade pip
 python -m pip install --upgrade pip
 
-## Install library
+# Install library
 pip install -r requirements.txt
 ```
 
@@ -80,16 +80,16 @@ pip install -r requirements.txt
 
 ### コマンド例(Mac)
 ```
-### 仮想環境の作成
+# 仮想環境の作成
 python -m venv .venv
 
-## 仮想環境のアクティベート
+# 仮想環境のアクティベート
 source .venv/bin/activate
 
-## pip のアップグレード
+# pip のアップグレード
 python -m pip install --upgrade pip
 
-## ライブラリのインストール
+# ライブラリのインストール
 pip install -r requirements.txt
 ```
 
