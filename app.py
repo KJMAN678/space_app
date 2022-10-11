@@ -101,7 +101,7 @@ def main():
         progress_bar_image.progress(0)
 
         pipe = StableDiffusionPipeline.from_pretrained(
-            "CompVis/stable-diffusion-v1-4", use_auth_token=True  # ACCESS_TOKEN
+            "CompVis/stable-diffusion-v1-4", use_auth_token=ACCESS_TOKEN
         )
         pipe.enable_attention_slicing()
 
