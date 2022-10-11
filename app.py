@@ -8,13 +8,17 @@ import numpy as np
 import streamlit as st
 import torch
 from diffusers import StableDiffusionPipeline
-from dotenv import load_dotenv
+
+# from dotenv import load_dotenv
 from huggingface_hub import notebook_login
 from PIL import Image
 
-load_dotenv(".env")
+# ローカル実行用 .envファイルから環境変数読み込み
+# load_dotenv(".env")
+# ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
 
-ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
+# Hugging SpaceのSecret Repoから環境変数読み取り
+ACCESS_TOKEN = st.secrets["ACCESS_TOKEN"]
 
 sys.path.append("./")
 from simulation import *
