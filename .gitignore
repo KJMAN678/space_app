@@ -2,5 +2,6 @@
 *.png
 .ipynb_checkpoints/
 __pycache__/
+.env
 
 !/sample_output_images/**

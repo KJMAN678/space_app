@@ -6,3 +6,5 @@ ftfy==6.1.1
 spacy==3.4.1
 matplotlib==3.5.3
 notebook==6.4.12
+streamlit==1.13.0
+python-dotenv==0.21.0
