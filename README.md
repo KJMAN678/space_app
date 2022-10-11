@@ -30,6 +30,8 @@ pinned: false
 
 - [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
+- [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
+
 ### Output Images by Image Generation / 画像生成により出力した画像
 
 ##### left: first Generation! Very Furry Tall Herd of No teeth Lighter skin Ferocious alien from Mars
@@ -131,6 +133,8 @@ pip install -r requirements.txt
 - sample_output_images
   - Folder containing the Output image described above.
   - 上述の Output 画像が入ったフォルダ
+- app.py
+  - Web (by streamlit) 上で画像生成(ただし重いので最終世代のみ)を行うためのファイル。
 
 ### Reference site / 参考サイト
 
